@@ -1,10 +1,12 @@
 body {
   margin: 0;
   padding: 0;
+  font-weight: bold;
   font-family: 'Quicksand', sans-serif;
-  background: linear-gradient(to bottom, #f8e8f0, #e6f0ff);
   color: #333;
   overflow-x: hidden;
+background: #EEAECA;
+background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
 }
 
 .hero {
